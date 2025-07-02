@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Random Forest for Regression</b>
-  - [This project applies Random Forest Regressor to predict customer loyalty scores, evaluating model performance using R-squared, Adjusted R-squared, and cross-validation.](https://github.com/bolarinwathompson/project4)
+  - [This project applies Random Forest Regressor to predict customer loyalty scores, evaluating model performance using R-squared, Adjusted R-squared, and cross-validation.](https://github.com/bolarinwathompson/Random-Forest-for-Regression)
 - <b>PCA and Random Forest Classifier</b>
   - [This project demonstrates the use of PCA for dimensionality reduction followed by training a Random Forest Classifier to predict target variables.](https://github.com/bolarinwathompson/project3)
 - <b>K-Nearest Neighbors (KNN) for Advanced Classification</b>
