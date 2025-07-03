@@ -24,8 +24,8 @@
   - [This project applies an Artificial Neural Network (ANN) to predict the success of video games, training the model on game features and evaluating its performance.](https://github.com/bolarinwathompson/project13)
 - <b>Tuned Convolutional Neural Network (CNN) - Fruit Classification</b>
   - [This project tunes a CNN for classifying fruits, including hyperparameter tuning with Keras Tuner, dropout regularization, and image augmentation to enhance model accuracy.](https://github.com/bolarinwathompson/project14)
-- <b>Convolutional Neural Network (CNN) - Image Search Engine</b>
-  - [This project builds an image search engine using VGG16 to extract features from images and finds similar images based on cosine similarity.](https://github.com/bolarinwathompson/project15)
+- <b>Convolutional Neural Network (CNN) - Image Search Engine Project</b>
+  - [This project builds an image search engine using VGG16 to extract features from images and finds similar images based on cosine similarity.](https://github.com/bolarinwathompson/Convolutional-Neural-Network-) 
 
 <h2> 🤳 Connect with me:</h2>
 
