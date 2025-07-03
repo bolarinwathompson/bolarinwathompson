@@ -21,7 +21,7 @@
 - <b>Regression Tree - Basic Template</b>
   - [This project uses a Decision Tree Regressor to predict continuous outcomes, exploring model accuracy and overfitting.](https://github.com/bolarinwathompson/project11)
 - <b>Artificial Neural Network - Video Game Success Prediction</b>
-  - [This project applies an Artificial Neural Network (ANN) to predict the success of video games, training the model on game features and evaluating its performance.](https://github.com/bolarinwathompson/project13)
+  - [This project applies an Artificial Neural Network (ANN) to predict the success of video games, training the model on game features and evaluating its performance.](https://github.com/bolarinwathompson/Artificial-Neural-Network-Project)  
 - <b>Convolutional Neural Network (CNN) - Image Search Engine Project</b>
   - [This project builds an image search engine using VGG16 to extract features from images and finds similar images based on cosine similarity.](https://github.com/bolarinwathompson/Convolutional-Neural-Network-) 
 
