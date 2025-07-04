@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
+- <b>Regression Tree - Basic Template</b>
+  - [This project uses a Decision Tree Regressor to predict continuous outcomes, exploring model accuracy and overfitting.](https://github.com/bolarinwathompson/project11)
 - <b>Random Forest for Regression</b>
   - [This project applies Random Forest Regressor to predict customer loyalty scores, evaluating model performance using R-squared, Adjusted R-squared, and cross-validation.](https://github.com/bolarinwathompson/Random-Forest-for-Regression)
 - <b>PCA and Random Forest Classifier</b>
@@ -18,8 +20,7 @@
   - [This project applies the Apriori algorithm to discover associations between products purchased together by customers in ABC grocery store transactions.](https://github.com/bolarinwathompson/Association-Rule-Learning-Project- )
 - <b>A/B Testing for ABC Grocery</b>
   - [This project uses A/B testing technique to determine if there is a statistically significant relationship between different mailer types and customer sign-up rates.](https://github.com/bolarinwathompson/A-B-Testing-Project-)
-- <b>Regression Tree - Basic Template</b>
-  - [This project uses a Decision Tree Regressor to predict continuous outcomes, exploring model accuracy and overfitting.](https://github.com/bolarinwathompson/project11)
+
 - <b>Artificial Neural Network - Video Game Success Prediction</b>
   - [This project applies an Artificial Neural Network (ANN) to predict the success of video games, training the model on game features and evaluating its performance.](https://github.com/bolarinwathompson/Artificial-Neural-Network-Project)
 
