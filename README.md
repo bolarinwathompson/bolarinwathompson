@@ -2,7 +2,7 @@
 
 I am an **Economist** and a **Data Scientist**, blending the world of **economic analysis** with the power of **data science** for firm optimum performance. With over **ten years of experience**, my work spans both fields, where I leverage **data science and data-driven methodologies** to address complex economic challenges. My projects and research draw on the intersection of **economics** and **advanced data science**, aiming to create impactful solutions for real-world problems.
 
-Feel free to explore my works, which reflects my passion for applying **data science** to **economic analysis** and beyond!
+Feel free to explore my selected works, which reflects my passion for applying **data science** to **economic analysis** and beyond!
 
 
 
