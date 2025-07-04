@@ -6,7 +6,7 @@
   - [This project uses a Decision Tree Regressor to predict continuous outcomes, exploring model accuracy and overfitting.](https://github.com/bolarinwathompson/project11)
 - <b>Decion Tree for Regression</b>
   - [This project applies Decision Tree Regressor to predict basci customer indices such as loyalty scores, sales, etc](https://github.com/bolarinwathompson/Decision-Tree-Regression)
-- <b>ABC Grocery Dimentionality Project using PCA</b>
+- <b>ABC Grocery Dimensionality Project using PCA</b>
   - [This project demonstrates the use of PCA for dimensionality reduction followed by training a Random Forest Classifier to predict target variables.](https://github.com/bolarinwathompson/PCA-Dimensionality-Project)
 - <b>K-Nearest Neighbors (KNN) for Advanced Classification</b>
   - [This project uses the KNN algorithm to classify customer data, with performance evaluated using accuracy, precision, recall, F1 score, and confusion matrix visualizations.](https://github.com/bolarinwathompson/KNN-Classification-Project)
