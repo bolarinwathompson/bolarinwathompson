@@ -15,7 +15,7 @@
 - <b>Causal Impact Analysis</b>
   - [This project uses CausalImpact to evaluate the effectiveness of a marketing campaign on customer sales, comparing pre- and post-campaign periods.](https://github.com/bolarinwathompson/project8)
 - <b>Association Rule Learning for ABC Grocery</b>
-  - [This project applies the Apriori algorithm to discover associations between products purchased together in grocery store transactions.](https://github.com/bolarinwathompson/project9)
+  - [This project applies the Apriori algorithm to discover associations between products purchased together by customers in ABC grocery store transactions.](https://github.com/bolarinwathompson/Association-Rule-Learning-Project- )
 - <b>A/B Testing for ABC Grocery</b>
   - [This project uses A/B testing to determine if there is a statistically significant relationship between different mailer types and customer sign-up rates.](https://github.com/bolarinwathompson/project10)
 - <b>Regression Tree - Basic Template</b>
