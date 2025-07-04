@@ -6,8 +6,8 @@
   - [This project uses a Decision Tree Regressor to predict continuous outcomes, exploring model accuracy and overfitting.](https://github.com/bolarinwathompson/project11)
 - <b>Random Forest for Regression</b>
   - [This project applies Random Forest Regressor to predict customer loyalty scores, evaluating model performance using R-squared, Adjusted R-squared, and cross-validation.](https://github.com/bolarinwathompson/Random-Forest-for-Regression)
-- <b>PCA and Random Forest Classifier</b>
-  - [This project demonstrates the use of PCA for dimensionality reduction followed by training a Random Forest Classifier to predict target variables.](https://github.com/bolarinwathompson/project3)
+- <b>ABC Grocery Dimentionality Project using PCA</b>
+  - [This project demonstrates the use of PCA for dimensionality reduction followed by training a Random Forest Classifier to predict target variables.](https://github.com/bolarinwathompson/PCA-Dimensionality-Project)
 - <b>K-Nearest Neighbors (KNN) for Advanced Classification</b>
   - [This project uses the KNN algorithm to classify customer data, with performance evaluated using accuracy, precision, recall, F1 score, and confusion matrix visualizations.](https://github.com/bolarinwathompson/KNN-Classification-Project)
 - <b>Random Forest for Regression - ABC Grocery</b>
