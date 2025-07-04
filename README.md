@@ -17,7 +17,7 @@
 - <b>Association Rule Learning for ABC Grocery</b>
   - [This project applies the Apriori algorithm to discover associations between products purchased together by customers in ABC grocery store transactions.](https://github.com/bolarinwathompson/Association-Rule-Learning-Project- )
 - <b>A/B Testing for ABC Grocery</b>
-  - [This project uses A/B testing to determine if there is a statistically significant relationship between different mailer types and customer sign-up rates.](https://github.com/bolarinwathompson/project10)
+  - [This project uses A/B testing technique to determine if there is a statistically significant relationship between different mailer types and customer sign-up rates.](https://github.com/bolarinwathompson/A-B-Testing-Project-)
 - <b>Regression Tree - Basic Template</b>
   - [This project uses a Decision Tree Regressor to predict continuous outcomes, exploring model accuracy and overfitting.](https://github.com/bolarinwathompson/project11)
 - <b>Artificial Neural Network - Video Game Success Prediction</b>
