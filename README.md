@@ -26,8 +26,8 @@
 - <b>Convolutional Neural Network (CNN) - Image Search Engine Project</b>
   - [This project builds an image search engine using VGG16 to extract features from images and finds similar images based on cosine similarity.](https://github.com/bolarinwathompson/Convolutional-Neural-Network1)
    
-- <b>Convolutional Neural Network (CNN) - Image Search Engine Project2</b>
-  - [This project builds an image search engine using VGG16 to extract features from images and finds similar images based on cosine similarity.](https://github.com/bolarinwathompson/Convolutional-Neural-Network-) 
+- <b>Convolutional Neural Network (CNN) - Fruit Classification Project</b>
+  - [The ABC Grocery Fruit Classification project uses a Convolutional Neural Network (CNN) to classify images of fruits into six categories: apple, avocado, banana, kiwi, lemon, and orange. The model is trained using a dataset of fruit images and can predict the category of a fruit in a new image.](https://github.com/bolarinwathompson/Convolutional-Neural-Network-) 
 
 <h2> 🤳 Connect with me:</h2>
 
