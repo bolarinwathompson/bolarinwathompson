@@ -10,7 +10,9 @@ Feel free to explore my selected works, which reflects my passion for applying *
 
 - <b>Regression Tree - Basic Template</b>
   - [This project uses a Decision Tree Regressor to predict continuous outcomes, exploring model accuracy and overfitting.](https://github.com/bolarinwathompson/project11)
-- <b>Decion Tree for Regression</b>
+- <b>ABC Grocery Customer Sign Up Project - Logistic Regression</b>
+  - [This project uses a Logigistic Regression algorithm to predict customer sign up for ABC Grocery.](https://github.com/bolarinwathompson/project11) 
+- <b>Decision Tree for Regression</b>
   - [This project applies Decision Tree Regressor to predict basci customer indices such as loyalty scores, sales, etc](https://github.com/bolarinwathompson/Decision-Tree-Regression)
 - <b>ABC Grocery Dimensionality Project using PCA</b>
   - [This project demonstrates the use of PCA for dimensionality reduction followed by training a Random Forest Classifier to predict target variables.](https://github.com/bolarinwathompson/PCA-Dimensionality-Project)
