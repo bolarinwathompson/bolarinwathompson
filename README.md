@@ -1,8 +1,8 @@
 # Hi, I'm Segun, and welcome to my page! <br/><a href="https://github.com/bolarinwathompson">   
 
-I am an **Economist** and a **Data Scientist**, blending the world of **economic analysis** with the power of **data science** to achieve organisational goals. With over **ten years of experience**, my work spans both fields, where I leverage **data science and data-driven methodologies** to address complex economic challenges. My projects draw on the intersection of **economics** and **advanced data science**, aiming to create impactful solutions for real-world companies' problems.
+I am an **Economist**, with a **PhD in Economics**, and a **Data Scientist**, combining **economic analysis** with **data science**. With over **ten years of experience**, I use my economic expertise and **machine learning** skills to solve **organizational challenges** and drive business performance. 
 
-
+My current works focus on applying **data-driven insights** and **predictive modeling** to help businesses optimize operations, achieve their goals, and make strategic decisions, particularly in the **retail** and **finance** sectors, as showcased in my repositories.
 
 
 <h2>👨‍💻 Data Science Projects:</h2>
