@@ -11,7 +11,7 @@
 - <b>K-Nearest Neighbors (KNN) for Advanced Classification</b>
   - [This project uses the KNN algorithm to classify customer data, with performance evaluated using accuracy, precision, recall, F1 score, and confusion matrix visualizations.](https://github.com/bolarinwathompson/project5)
 - <b>Random Forest for Regression - ABC Grocery</b>
-  - [This project applies Random Forest for regression, evaluating customer loyalty score predictions, and includes feature importance analysis and permutation importance.](https://github.com/bolarinwathompson/project6)
+  - [This project applies Random Forest for regression, evaluating customer loyalty score predictions, and includes feature importance analysis and permutation importance.](https://github.com/bolarinwathompson/Random-Forest-Regression-Project)
 - <b>Advanced K-Means Clustering</b>
   - [This project performs K-Means clustering on customer data to segment them into groups based on purchasing behaviour, using the Elbow Method for optimal cluster selection.](https://github.com/bolarinwathompson/K-Means-Clustering-Project)
 - <b>Causal Impact Analysis</b>
