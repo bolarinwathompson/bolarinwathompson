@@ -1,8 +1,7 @@
-# Hi, I'm Segun, and welcome to my GitHub page! <br/><a href="https://github.com/bolarinwathompson">   
+# Hi, I'm Segun, and welcome to my page! <br/><a href="https://github.com/bolarinwathompson">   
 
-I am an **Economist** and a **Data Scientist**, blending the world of **economic analysis** with the power of **data science** to achieve organisational goals. With over **ten years of experience**, my work spans both fields, where I leverage **data science and data-driven methodologies** to address complex economic challenges. My projects and research draw on the intersection of **economics** and **advanced data science**, aiming to create impactful solutions for real-world problems.
+I am an **Economist** and a **Data Scientist**, blending the world of **economic analysis** with the power of **data science** to achieve organisational goals. With over **ten years of experience**, my work spans both fields, where I leverage **data science and data-driven methodologies** to address complex economic challenges. My projects draw on the intersection of **economics** and **advanced data science**, aiming to create impactful solutions for real-world companies' problems.
 
-Feel free to explore my selected works, which reflects my passion for applying **data science** to **economic analysis** and beyond!
 
 
 
