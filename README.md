@@ -24,7 +24,7 @@
   - [This project applies an Artificial Neural Network (ANN) to predict the success of video games, training the model on game features and evaluating its performance.](https://github.com/bolarinwathompson/Artificial-Neural-Network-Project)
 
 - <b>Convolutional Neural Network (CNN) - Image Search Engine Project</b>
-  - [This project builds an image search engine using VGG16 to extract features from images and finds similar images based on cosine similarity.](https://github.com/bolarinwathompson/Convolutional-Neural-Network1-)
+  - [This project builds an image search engine using VGG16 to extract features from images and finds similar images based on cosine similarity.](https://github.com/bolarinwathompson/Convolutional-Neural-Network1)
    
 - <b>Convolutional Neural Network (CNN) - Image Search Engine Project2</b>
   - [This project builds an image search engine using VGG16 to extract features from images and finds similar images based on cosine similarity.](https://github.com/bolarinwathompson/Convolutional-Neural-Network-) 
