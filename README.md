@@ -1,6 +1,6 @@
 # Hi, I'm Segun, and welcome to my GitHub page! <br/><a href="https://github.com/bolarinwathompson">   
 
-I am an **Economist** and a **Data Scientist**, blending the world of **economic analysis** with the power of **data science** for firm optimum performance. With over **ten years of experience**, my work spans both fields, where I leverage **data science and data-driven methodologies** to address complex economic challenges. My projects and research draw on the intersection of **economics** and **advanced data science**, aiming to create impactful solutions for real-world problems.
+I am an **Economist** and a **Data Scientist**, blending the world of **economic analysis** with the power of **data science** to achieve organisational goals. With over **ten years of experience**, my work spans both fields, where I leverage **data science and data-driven methodologies** to address complex economic challenges. My projects and research draw on the intersection of **economics** and **advanced data science**, aiming to create impactful solutions for real-world problems.
 
 Feel free to explore my selected works, which reflects my passion for applying **data science** to **economic analysis** and beyond!
 
@@ -8,8 +8,8 @@ Feel free to explore my selected works, which reflects my passion for applying *
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Regression Tree - Basic Template</b>
-  - [This project uses a Decision Tree Regressor to predict continuous outcomes, exploring model accuracy and overfitting.](https://github.com/bolarinwathompson/project11)
+- <b>ABC Grocery Loyalty Scores Prediction - Linear Regression</b>
+  - [This project uses linear regresssion algorithm to predicts customer loyalty scores for ABC Grocery based on historical transaction data and customer demographics. By leveraging the model, ABC Grocery can identify loyal customers, understand factors affecting loyalty, and tailor marketing efforts to improve retention.](https://github.com/bolarinwathompson/Loyalty-Score-Prediction-Linear-Regression))
 - <b>ABC Grocery Customer Sign Up Project - Logistic Regression</b>
   - [This project uses a Logistic Regression algorithm to predict  predict whether a customer will sign up for a promotional offer based on customer demographics and transaction data. The model helps ABC Grocery identify high-potential customers and optimize marketing efforts.](https://github.com/bolarinwathompson/Customer-Sign-Up-Prediction) 
 - <b>Decision Tree for Regression</b>
