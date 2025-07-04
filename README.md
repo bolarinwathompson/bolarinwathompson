@@ -9,7 +9,7 @@
 - <b>PCA and Random Forest Classifier</b>
   - [This project demonstrates the use of PCA for dimensionality reduction followed by training a Random Forest Classifier to predict target variables.](https://github.com/bolarinwathompson/project3)
 - <b>K-Nearest Neighbors (KNN) for Advanced Classification</b>
-  - [This project uses the KNN algorithm to classify customer data, with performance evaluated using accuracy, precision, recall, F1 score, and confusion matrix visualizations.](https://github.com/bolarinwathompson/project5)
+  - [This project uses the KNN algorithm to classify customer data, with performance evaluated using accuracy, precision, recall, F1 score, and confusion matrix visualizations.](https://github.com/bolarinwathompson/KNN-Classification-Project)
 - <b>Random Forest for Regression - ABC Grocery</b>
   - [This project applies Random Forest for regression, evaluating customer loyalty score predictions, and includes feature importance analysis and permutation importance.](https://github.com/bolarinwathompson/Random-Forest-Regression-Project)
 - <b>Advanced K-Means Clustering</b>
